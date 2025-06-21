@@ -21,7 +21,7 @@ My Contribution
 
 This repository reflects my individual contribution to the team project, with a focus on:
 
-Logistic Regression Modeling for the ≥40 Age Group
-Feature selection, multicollinearity checks, and model diagnostics
-Interpretation of age-specific predictors and model performance evaluation
+-Logistic Regression Modeling for the ≥40 Age Group
+-Feature selection, multicollinearity checks, and model diagnostics
+-Interpretation of age-specific predictors and model performance evaluation
 
